@@ -1,0 +1,14 @@
+.div1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 300px;
+    border: 10px dotted rgb(201, 78, 99);
+
+}
+.div2{
+    width: 500px;
+    height: 300px;
+    background-color: rgb(201, 78, 99);
+}

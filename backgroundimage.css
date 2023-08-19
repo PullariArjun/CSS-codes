@@ -1,0 +1,33 @@
+.div{
+    height: 100px;
+    width: 300px;
+}
+.div1{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-image: url(images/Bugatti.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div2{
+    width: 100px;
+    height: 100px;
+    float:left;
+    background-image: url(images/images.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.div3{
+    width: 100px;
+    height: 100px;
+    float: right;
+    background-image: url(images/supraa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body{
+    background-image: url(images/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
